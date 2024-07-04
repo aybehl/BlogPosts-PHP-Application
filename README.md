@@ -26,3 +26,5 @@ The `posts` table stores information about the blog posts.
 | content       | TEXT         | The content of the blog post |
 | publish_date  | DATE         | The date when the blog post was published |
 
+### WEBSITE UI
+<img src="./images/website_UI.png" alt="website UI screenshot">
